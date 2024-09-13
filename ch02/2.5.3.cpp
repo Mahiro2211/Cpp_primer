@@ -10,12 +10,8 @@ int main()
     //output is 4 5 /n 3 5
     //which is mean that decltype(()) is just mean a quote of a variable
     // name a Scales_data
-    struct Scale_data {
-        std :: string bookNo;
-        unsigned units_sold = 0;
-        double revene = 0.0;
-    };
-    
+    decltype (a) c = a; // 独立的变量c 值为a
+    decltype (a = b) d = a; // int& 类型 引用a 
     return 0 ;
 
 }

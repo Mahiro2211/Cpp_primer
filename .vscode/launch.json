@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/coding/mygithub/Cpp_primer/cpp11_property",
-      "program": "d:/coding/mygithub/Cpp_primer/cpp11_property/build/Debug/outDebug",
+      "cwd": "d:/coding/mygithub/Cpp_primer/ch07_class",
+      "program": "d:/coding/mygithub/Cpp_primer/ch07_class/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
